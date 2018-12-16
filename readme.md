@@ -18,7 +18,7 @@ We donated this project to the Departmenf of Computer and Information Sciences o
 
 <h4>Technical Details</h4>
 <p>
-B.E.S.F.R.E.N.D. is written on PHP, specifically using the Laravel framework. 
+B.E.S.F.R.E.N.D. is written on PHP, specifically using the Laravel framework. The front-end framework used on this project is Bootstrap 4.
 </p>
 
 <h4>Notes</h4>
