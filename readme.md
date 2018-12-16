@@ -7,7 +7,7 @@
     <li>Scott Leigh C. Lariosa</li>
     <li>Clem Joshua C. Rama</li>
     <li>Kristian Romeo</li>
-</ul?
+</ul>
 
 <h5>About the Project</h5>
 <p>
