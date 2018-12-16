@@ -20,5 +20,5 @@ We donated this project to the Departmenf of Computer and Information Sciences o
 <p>The following folders are not uploaded due to their size</p>
 <ul>
     <li>node_modules folder is not included, simply use the <p style="font-family:consolas">npm install</p> command</li>
-    <li>vendors folder is also not included, simply type <p style="font-family:consolas">composer update</p> and <p style="font-family:consolas">composer install</p> on the command line<li>
+    <li>vendors folder is also not included, simply type <p style="font-family:consolas">composer update</p> and <p style="font-family:consolas">composer install</p> on the command line</li>
 </ul>
