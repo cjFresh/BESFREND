@@ -1,0 +1,8 @@
+RegistrationController.php
+- $person->dead = "No"; (store method)
+
+HouseholdController.php
+- $person->dead = "No"; (store method)
+
+ReliefController.php
+- changed the error message (the variables)
